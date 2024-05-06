@@ -1,4 +1,4 @@
-@-moz-document regexp("http[s]*[:]//(jira[\\w\\.]+(com|org|edu|gov|net|mil)|[\\w\\.]+/jira)(?!/plugins/servlet/com.moqups.plugin)+.*"), regexp("http[s]*[:]//(bamboo[\\w\\.]+(com|org|edu|gov|net|mil)|[\\w\\.]+/bamboo)(?!/plugins/servlet/com.moqups.plugin)+.*") {
+@-moz-document regexp("http[s]*[:]//(jira[\\w\\.]+(com|org|edu|gov|net|mil|de)|[\\w\\.]+/jira)(?!/plugins/servlet/com.moqups.plugin)+.*"), regexp("http[s]*[:]//(bamboo[\\w\\.]+(com|org|edu|gov|net|mil|de)|[\\w\\.]+/bamboo)(?!/plugins/servlet/com.moqups.plugin)+.*") {
 /* Bitbucket AUI Side Panel */
 aside.aui-page-panel-sidebar,
 aside.aui-page-panel-sidebar section {
